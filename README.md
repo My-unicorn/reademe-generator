@@ -1,16 +1,22 @@
 Reademe Generator
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-https://camo.githubusercontent.com/d41b9884bd102b525c8fb9a8c3c8d3bbed2b67f0/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313033
-
-https://camo.githubusercontent.com/33e33e9c0c5907ade76ad21b385bbc4ddeadd7f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7361792d7468616e6b732d6666363962342e737667
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-https://avatars2.githubusercontent.com/u/58273384?s=400&u=469244e4601b83cca9db430976c540902cd92605&v=4
 
 
 Developed By Araya Nawrath
 
 Contact At Arayanawrath@gmail.com
+
+
+
+
+
+![ ReadeMe Generator Demo](readme-gen.gif)
+
+
 
 Description
 node index.js
