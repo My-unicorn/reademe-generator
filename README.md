@@ -12,9 +12,9 @@ Contact At Arayanawrath@gmail.com
 
 
 
+![Reademe Generator Demo](reademe-gen.gif)
 
-
-![ ReadeMe Generator Demo](readme-gen.gif)
+![ ReadeMe Generator Demo]
 
 
 
