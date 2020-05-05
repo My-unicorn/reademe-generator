@@ -7,7 +7,8 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
+<img src= "https://avatars2.githubusercontent.com/u/58273384?s=400&u=469244e4601b83cca9db430976c540902cd92605&v=4" 
+style ="width: 100px">
 
 
 Developed By Araya Nawrath
